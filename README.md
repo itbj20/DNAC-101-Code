@@ -1,4 +1,5 @@
 # Cisco DNA Center 101 Code   20200209T1950 测试成功。
+# 20200403 Add the .gitignore file.
 
 This repository contains a few simple scripts to get started with Cisco DNA Center API.
 
